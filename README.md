@@ -18,8 +18,8 @@ This project is inspired by the task tracker project described at [Roadmap.sh - 
 1. Clone the repository
 
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/AdhikaryGautam/Task-Tracker-CLI
+   cd task-tracker-cli
 2. Install Dependencies
 
    ```bash
