@@ -1,6 +1,7 @@
 # Task Manager CLI
 
 A simple **CLI** task management application built with Node.js that helps you organize and track your tasks in a simple file-based storage system.
+This project is inspired by the task tracker project described at [Roadmap.sh - Task Tracker](https://roadmap.sh/projects/task-tracker).
 
 ## Features
 
